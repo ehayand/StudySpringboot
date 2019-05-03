@@ -1,0 +1,3 @@
+================
+Ehay Spring Boot ${spring-boot.version}
+================
