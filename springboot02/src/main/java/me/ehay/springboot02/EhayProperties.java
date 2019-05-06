@@ -23,7 +23,7 @@ public class EhayProperties {
 
     private String fullName;
 
-    @DurationUnit(ChronoUnit.SECONDS)
+//    @DurationUnit(ChronoUnit.SECONDS)
     private Duration sessionTimeout = Duration.ofSeconds(30);
 
     public String getName() {
