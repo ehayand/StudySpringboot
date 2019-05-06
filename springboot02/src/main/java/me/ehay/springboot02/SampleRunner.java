@@ -23,6 +23,7 @@ public class SampleRunner implements ApplicationRunner {
         System.out.println("=================");
         System.out.println(ehayProperties.getName());
         System.out.println(ehayProperties.getAge());
+        System.out.println(ehayProperties.getSessionTimeout());
         System.out.println("=================");
     }
 }
